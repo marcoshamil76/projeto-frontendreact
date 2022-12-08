@@ -27,7 +27,7 @@ return(
                     </div>
                     
                     <div className="totalProduto">
-                         <p>Total R$: {priceFormatter.format(props.produto.qty * props.produto.valor)} </p>
+                         <p>Total: {priceFormatter.format(props.produto.qty * props.produto.valor)} </p>
                     </div>
                 </div>
                     

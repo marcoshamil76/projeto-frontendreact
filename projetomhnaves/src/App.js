@@ -141,9 +141,9 @@ const limparCart =()=>{
   const onRemove = (product) => {
     const newCartProducts = [...cartProducts]
     let exist = newCartProducts.find((x) => x.id === product.id);
-    // o primeiro find foi utilizado para localizar o objeto 
-    // depois o findIndex foi utilizado pois o splice precisa do índice 
-    // para fazer a exclusão e não somente o objeto
+        // o primeiro find foi utilizado para localizar o objeto 
+        // depois o findIndex foi utilizado pois o splice precisa do índice 
+        // para fazer a exclusão e não somente o objeto
       let exist2 = newCartProducts.findIndex((x)=> x.id === product.id)
     if (exist){
       if(exist.qty >= 1){
