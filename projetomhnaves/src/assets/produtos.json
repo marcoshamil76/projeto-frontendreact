@@ -1,0 +1,92 @@
+[{
+    "id": "1",
+    "name": "Millenium Falcon",
+    "Ano": "1976",
+    "valor": 7508202,
+    "imageUrl": "./imgs/milenium.png",
+    "imageAlt": "Milenium",
+    "detalhes": "./imgs/millenium-detalhes.jpg"
+    
+},
+{
+    "id": "2",
+    "name": "USS Enterprise",
+    "Ano": "1978",
+    "valor": 8009940,
+    "imageUrl": "./imgs/ussenterprise.png",
+    "imageAlt": "USS Enterprise",
+    "detalhes": "./imgs/ussenterprise-detalhes.png"
+    
+},
+{
+    "id": "3",
+    "name": "X-Wing",
+    "Ano": "1998",
+    "valor": 3720040,
+    "imageUrl": "./imgs/xwing.png",
+    "imageAlt": "X-Wing",
+    "detalhes": "./imgs/xwing-detalhes.jpg"
+    
+},
+{
+    "id": "4",
+    "name": "Tie Fighter",
+    "Ano": "2002",
+    "valor": 342009,
+    "imageUrl": "./imgs/tiefighter.png",
+    "imageAlt": "Tie Fighter",
+    "detalhes": "./imgs/tiefighter-detalhes.jpg"
+    
+},
+{
+    "id": "5",
+    "name": "Destroyer",
+    "Ano": "2004",
+    "valor": 99620220,
+    "imageUrl": "./imgs/destroyer.png",
+    "imageAlt": "Destroyer",
+    "detalhes": "./imgs/destroyer-detalhes.jpg"
+    
+},
+{
+    "id": "6",
+    "name": "Milano",
+    "Ano": "2009",
+    "valor": 4130402,
+    "imageUrl": "./imgs/milano.png",
+    "imageAlt": "Milano",
+    "detalhes": "./imgs/milano-detalhes.jpg"
+    
+},
+{
+    "id": "7",
+    "name": "Dellorian II",
+    "Ano": "2022",
+    "valor": 89760,
+    "imageUrl": "./imgs/dellorian2.png",
+    "imageAlt": "Dellorian II",
+    "detalhes": "./imgs/dellorian-detalhes.jpg"
+    
+},
+{
+    "id": "8",
+    "name": "Delorean",
+    "Ano": "2023",
+    "valor": 97998,
+    "imageUrl": "./imgs/delorean.png",
+    "imageAlt": "Delorean",
+    "detalhes": "./imgs/delorean-detalhes.jpg"
+    
+},
+{
+    "id": "9",
+    "name": "Hyperion",
+    "Ano": "2032",
+    "valor": 5121998,
+    "imageUrl": "./imgs/hyperion.png",
+    "imageAlt": "Hyperion",
+    "detalhes": "./imgs/hyperion-detalhes.jpg"
+    
+}
+
+]
